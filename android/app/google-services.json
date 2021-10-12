@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "512073750794",
+    "project_id": "grancursos-9ede7",
+    "storage_bucket": "grancursos-9ede7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512073750794:android:299a1b6221b453e71d42f3",
+        "android_client_info": {
+          "package_name": "com.example.grancursos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512073750794-jrnq2qttf9ns2pvgt3ve8qe9nf7psimg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grancursos",
+            "certificate_hash": "4391b5f5b82830514c90555b0e339d13630bfa5b"
+          }
+        },
+        {
+          "client_id": "512073750794-tp7ij2bi5vpn64t8nuu1oe4543mm3b35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-utLp9PGw6zZXNE9dE7wUQ2kO0AOPr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512073750794-tp7ij2bi5vpn64t8nuu1oe4543mm3b35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
